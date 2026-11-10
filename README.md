@@ -28,10 +28,10 @@
 
 适用于：
 
-- 🎓 高校《微机原理与接口技术》课程学习与实验报告
-- 📝 考研 408 / 专业课复习
-- 🔧 8086 汇编入门与接口课程设计（交通灯、数码管、抢答器等）
-- 💡 想理解 16 位 x86 架构底层原理的开发者
+-  高校《微机原理与接口技术》课程学习与实验报告
+-  考研 408 / 专业课复习
+-  8086 汇编入门与接口课程设计
+-  想理解 16 位 x86 架构底层原理的开发者
 
 ---
 
@@ -174,7 +174,7 @@ A/D 与 D/A 转换 ──► Proteus 硬件综合实验
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/sg0928-new/Microcomputer-Principle-and-Interface-Technology-Based-on-8086.git
 ```
 
 ### 2. 汇编与链接（DOSBox 环境）
@@ -411,7 +411,7 @@ A/D & D/A Conversion ──► Integrated Proteus Hardware Labs
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/sg0928-new/Microcomputer-Principle-and-Interface-Technology-Based-on-8086.git
 ```
 
 ### 2. Assemble & Link (DOSBox)
